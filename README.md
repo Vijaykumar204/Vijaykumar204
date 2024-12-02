@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,PYTHON,JAVA**
 
-- 📫 How to reach me **vijayakumar2042003@gmail.com**
+- 📫 How to reach me **mvijiyakumar20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
